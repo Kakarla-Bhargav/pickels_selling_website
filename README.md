@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pickles E-commerce Website
 
 This is a fully functional e-commerce website built with React, Node.js, and MongoDB to sell pickles online. The website allows users to explore different types of pickles, add them to the cart, and complete their orders. It also features a dark/light mode toggle and dynamic price updates based on quantity.
@@ -114,3 +115,6 @@ This project can be deployed using platforms like [Netlify](https://www.netlify.
 ## License
 
 This project is licensed under the MIT License.
+=======
+# pickels_selling_website
+>>>>>>> a6a7491e437be6c1082d62c7c784ab61b1b4af86
